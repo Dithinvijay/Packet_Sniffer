@@ -1,4 +1,4 @@
-<h1 style=textalign:center>Packet-Sniffing Tool</h1>
+<h1>Packet-Sniffing Tool</h1>
 <p>This tool allows you to sniff network packets and log relevant information such as source and destination IP addresses, source and destination ports, and protocols.
 </p>
 <h2>Requirements</h2>
