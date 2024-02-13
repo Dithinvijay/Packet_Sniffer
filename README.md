@@ -1,4 +1,4 @@
-<h1>Packet-Sniffing Tool</h1>
+<h1 style=textalign:center>Packet-Sniffing Tool</h1>
 <p>This tool allows you to sniff network packets and log relevant information such as source and destination IP addresses, source and destination ports, and protocols.
 </p>
 <h2>Requirements</h2>
@@ -31,6 +31,7 @@ Keyboard library (`pip install keyboard`)
   <li>Source Port Filter: Specify a source port filter or use 'all' to capture packets from any source port.</li>
   <li>Destination Port Filter: Specify a destination port filter or use 'all' to capture packets to any destination port.</li>
 </ul>
+<h2>The Screenshots of the Output</h2>
 
 ![1](https://github.com/Dithinvijay/Packet_Sniffer/assets/123413489/e693f564-26c1-4a95-823a-527369f978ca)
 ![2](https://github.com/Dithinvijay/Packet_Sniffer/assets/123413489/d19f4e44-4930-42ca-a8e7-1ed47d92dcab)
