@@ -32,3 +32,6 @@ Keyboard library (`pip install keyboard`)
   <li>Destination Port Filter: Specify a destination port filter or use 'all' to capture packets to any destination port.</li>
 </ul>
 
+![1](https://github.com/Dithinvijay/Packet_Sniffer/assets/123413489/e693f564-26c1-4a95-823a-527369f978ca)
+![2](https://github.com/Dithinvijay/Packet_Sniffer/assets/123413489/d19f4e44-4930-42ca-a8e7-1ed47d92dcab)
+![3](https://github.com/Dithinvijay/Packet_Sniffer/assets/123413489/9cfcb277-7223-44a3-82d6-17abd58eba96)
